@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1586806403220" stop="1586806404108">
+  <name>Criar um novo livro</name>
+  <title>Criar um novo livro</title>
+  <test-cases>
+    <test-case start="1586806403220" stop="1586806404108" status="passed">
+      <name>Criar um novo livro com sucesso</name>
+      <title>Criar um novo livro com sucesso</title>
+      <steps>
+        <step start="1586806404106" stop="1586806404107" status="passed">
+          <name>Quando informar os dados do livro</name>
+          <title>Quando informar os dados do livro</title>
+          <attachments/>
+        </step>
+        <step start="1586806404107" stop="1586806404108" status="passed">
+          <name>Entao o meu livro com o codigo informado deve ser criado com sucesso</name>
+          <title>Entao o meu livro com o codigo informado deve ser criado com sucesso</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21991680"/>
+        <label name="host" value="DESKTOP-FVPIT6H"/>
+        <label name="feature" value="Criar um novo livro"/>
+        <label name="story" value="Criar um novo livro com sucesso"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="21991680"/>
+    <label name="host" value="DESKTOP-FVPIT6H"/>
+  </labels>
+</ns2:test-suite>

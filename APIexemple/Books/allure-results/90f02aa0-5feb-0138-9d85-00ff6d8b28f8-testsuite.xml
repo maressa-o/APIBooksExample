@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1586806402110" stop="1586806403220">
+  <name>Fazer a listagem dos 200 livros existentes</name>
+  <title>Fazer a listagem dos 200 livros existentes</title>
+  <test-cases>
+    <test-case start="1586806402155" stop="1586806403220" status="passed">
+      <name>Listar os duzentos livros existentes</name>
+      <title>Listar os duzentos livros existentes</title>
+      <steps>
+        <step start="1586806403210" stop="1586806403210" status="passed">
+          <name>Quando eu solicitar a lista de livros</name>
+          <title>Quando eu solicitar a lista de livros</title>
+          <attachments/>
+        </step>
+        <step start="1586806403210" stop="1586806403220" status="passed">
+          <name>Entao todos os 200 livros existentes devem ser exibidos</name>
+          <title>Entao todos os 200 livros existentes devem ser exibidos</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21991680"/>
+        <label name="host" value="DESKTOP-FVPIT6H"/>
+        <label name="feature" value="Fazer a listagem dos 200 livros existentes"/>
+        <label name="story" value="Listar os duzentos livros existentes"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="21991680"/>
+    <label name="host" value="DESKTOP-FVPIT6H"/>
+  </labels>
+</ns2:test-suite>

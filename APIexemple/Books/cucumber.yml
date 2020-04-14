@@ -1,0 +1,15 @@
+## YAML Templatesss
+#encoding: UTF-8
+---
+    default: -p allure -p progress -p json -p hmg
+    
+    progress: --format progress
+    
+    pretty: --format pretty
+    html:  --format html --out=allure-results/report.html
+    json:  --format json --out=allure-results/report.json
+    allure: --format AllureCucumber::Formatter --out=allure-results
+    
+    dev: ENVIRONMENT=dev
+    hmg: ENVIRONMENT=hmg
+    prod: ENVIRONMENT=prod
